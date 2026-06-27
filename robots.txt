@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://starprairie.github.io/sitemap.xml
